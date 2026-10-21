@@ -1,0 +1,40 @@
+langchain
+langchain-community
+langchain-core
+
+#LLM PROVIDERS
+langchain-openai
+
+openai
+
+
+#VECTOR DATABASE
+chromadb
+
+#EMBEDDING MODELS
+sentence-transformers
+
+tqdm
+requests
+
+streamlit 
+
+#API
+fastapi
+uvicorn
+
+#DATA PROCESSING
+numpy
+
+pandas
+
+# TEXT PROCESSING
+tiktoken
+
+# ENVIRONMENT VARIABLES
+python-dotenv==1.2.4
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
